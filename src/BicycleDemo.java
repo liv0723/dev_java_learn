@@ -1,5 +1,6 @@
 import getting_to_know_the_language.objects_class_interfaces_package.herency.Bicycle;
-
+import getting_to_know_the_language.objects_class_interfaces_package.herency.interfaces.ACMEBicycle;
+import getting_to_know_the_language.objects_class_interfaces_package.herency.Bicycle;
 
 public class BicycleDemo {
     public static void main(String[] args) {
